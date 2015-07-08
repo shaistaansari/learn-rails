@@ -28,6 +28,8 @@ gem 'rails_layout'
 gem 'foundation-rails'
 
 gem 'simple_form'
+
+gem 'high_voltage'		
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
